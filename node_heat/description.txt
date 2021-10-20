@@ -1,0 +1,4 @@
+Primeira aula do NLW Heat da Rocket Seat. 
+Nessa aula criamos o backend da aplicação utlizando NodeJS. 
+Nesse projeto foi utilizado Typescript, que auxilia no aumento da produtividade em desenvolvimento, 
+utilizado Prisma ORM, para trabalhar com banco de dados e Socket.IO para trabalhar comunicação em tempo real.
